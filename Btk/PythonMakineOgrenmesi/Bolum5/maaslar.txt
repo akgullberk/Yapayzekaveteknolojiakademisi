@@ -9,12 +9,3 @@ Mudur,7,10000
 Direktor,8,15000
 C-level,9,25000
 CEO,10,50000
-Uzman,4,4000
-Proje Yoneticisi,5,552200
-Sef,6,73500
-Mudur,7,1022000
-Direktor,8,151000
-C-level,9,25000
-CEO,10,50000
-Dayı,4,321331
-Berk,3,645645645
